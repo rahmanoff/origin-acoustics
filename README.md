@@ -1,3 +1,3 @@
 Origin Acoustics info page in ukrainian
 
-Demo - rahmanoff.github.io/origin-acoustics/
+Demo - https://rahmanoff.github.io/origin-acoustics/
